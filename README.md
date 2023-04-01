@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jan</h1>
-- 🌱 I’m currently a student learning application development
+- 🌱 I’m currently a student learning application development.
 
 <p align="left">
 </p>
