@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jan</h1>
-- 🌱 I’m currently a student learning application development.
-
+- 🌱 I’m currently a student learning application development. <br>
+- 🔎 You can find out more about me on my personal website: <a href="https://janlehner.it/" target="_blank">janlehner.it</a> 
 <p align="left">
 </p>
 
